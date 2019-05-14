@@ -1,5 +1,5 @@
-# select_components
-select components by typescript
+# select-components
+使用`typescript`实现的`select`选择框
 
 ### 使用
 ```typescript
